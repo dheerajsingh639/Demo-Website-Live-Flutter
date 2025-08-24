@@ -49,6 +49,8 @@ With draggable icons, animations, and smooth UI transitions, it allows creative 
 
 <img width="1894" height="925" alt="Screenshot 2025-08-24 171912" src="https://github.com/user-attachments/assets/3b9e1d9e-b431-4634-a921-64bdd7f19887" />
 
+<h3> 🤝🏻 Connect with Me </h3>
+
 <p align="Row">
 &nbsp; <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=0bivoTfGHrML&format=png&color=000000" width="50" /></a> 
   &nbsp; <a href="dheerajchauhan269@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
